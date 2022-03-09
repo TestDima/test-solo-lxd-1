@@ -1,6 +1,3 @@
-branches:
-  only:
-    - test
 dist: focal
 name: image222
 description: Image 222 description
